@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomNotesApp</string>
+    <string name="add_note">Add note</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_descriptions">Add descriptions</string>
+    <string name="enter_title_here">Enter title here</string>
+    <string name="empty">Add your first note by clicking \non the above three dots.</string>
+</resources>
